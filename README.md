@@ -1,2 +1,2 @@
 # Portfolio-HTML
-Portfolio web
+Desenvolvimento do meu primeiro portfólio web usando HTML, CSS e JavaScript.
